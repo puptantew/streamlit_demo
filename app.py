@@ -1,9 +1,9 @@
 import streamlit as st
 # streamlit run app.py
-st.title("Streamlit Demo Puptantew")
-st.header("Header Puptantew")
-st.subheader("Sub-Header Puptantew")
-st.text("This is an example text")
+st.title("แฮมรักช้าง ช้างรักแฮม")
+st.header("แฮมรักบ้านของช้างกับแฮม")
+st.subheader("แฮมน่าร้ากกกก")
+st.text("เจ้าแฮม")
 
 st.success("Success")
 st.warning("warning")
